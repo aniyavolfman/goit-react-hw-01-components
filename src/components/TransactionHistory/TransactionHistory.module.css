@@ -1,0 +1,10 @@
+.transactionHistory {
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    width: 220px;
+    border: 2px solid tomato;
+}
